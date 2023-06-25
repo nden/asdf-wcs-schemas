@@ -2,6 +2,7 @@
 ---
 $schema: "http://stsci.edu/schemas/yaml-schema/draft-01"
 id: "http://stsci.edu/schemas/gwcs/frame-1.0.0"
+
 title: |
   The base class of all coordinate frames.
 
